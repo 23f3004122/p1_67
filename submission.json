@@ -1,0 +1,8 @@
+{
+  "prompt": "/imagine prompt: A Japanese ukiyo-e woodblock print style scene from Edo period, showing a traveler descending a winding mountain path step by step toward a calm valley. The path spirals downward through stylized hills and layered landscapes. Flat color blocks, strong outlines, visible woodgrain texture, muted indigo and ochre palette. Hokusai-inspired composition, diagonal flow, minimal shading, atmospheric perspective. The lowest valley is calm and centered, representing convergence. No text, no labels, no modern elements --ar 1:1 --v 6.1 --stylize 200 --quality 2",
+  "model": "Midjourney v6.1",
+  "concept": "gradient descent",
+  "tradition_name": "Japanese Ukiyo-e woodblock print",
+  "tradition_period": "Edo period (1603–1868)",
+  "tradition_approach": "Flat color blocks, strong contour lines, diagonal composition, and atmospheric perspective inspired by Hokusai to represent iterative descent toward a minimum."
+}
